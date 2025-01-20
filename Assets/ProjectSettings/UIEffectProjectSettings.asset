@@ -52,3 +52,12 @@ ShaderVariantCollection:
         passType: 0
       - keywords: TRANSITION_COLOR_SUBTRACTIVE TRANSITION_SHINY
         passType: 0
+  - first: {fileID: 4800000, guid: c67f821adbb6348a3a21573a25b55de0, type: 3}
+    second:
+      variants:
+      - keywords: TRANSITION_BURN TRANSITION_COLOR_MULTIPLY_ADDITIVE
+        passType: 0
+      - keywords: TRANSITION_COLOR_MULTIPLY_ADDITIVE TRANSITION_SHINY
+        passType: 0
+      - keywords: TRANSITION_COLOR_REPLACE TRANSITION_MELT
+        passType: 0
