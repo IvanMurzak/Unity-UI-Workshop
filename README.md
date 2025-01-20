@@ -28,6 +28,16 @@ Run the following command in your project's directory:
 openupm add extensions.unity.mouse.parallax
 ```
 
+# [Unity Theme](https://github.com/IvanMurzak/Unity-Theme)
+
+![263363646-1c545d11-aea4-4cd2-8aaa-75539bbb6699](https://github.com/user-attachments/assets/05e53dc0-43f8-4ef0-bdf5-45797d2e64b1)
+
+Run the following command in your project's directory:
+
+```bash
+openupm add extensions.unity.theme
+```
+
 # [UI Effect](https://github.com/mob-sakai/UIEffect)
 
 ![uieffects](https://github.com/user-attachments/assets/1fa335e5-5316-4aa0-8ee5-4721c7e96641)
