@@ -20,11 +20,15 @@ This sample project demonstrates the fundamentals of UI implementation in a Unit
 
 #### [UI Effect](https://github.com/mob-sakai/UIEffect)
 
+Run the following command in your project's directory:
+
 ```bash
 openupm add com.coffee.ui-effect
 ```
 
 #### [Mouse Parallax](https://github.com/IvanMurzak/Unity-Mouse-Parallax)
+
+Run the following command in your project's directory:
 
 ```bash
 openupm add extensions.unity.mouse.parallax
@@ -32,7 +36,7 @@ openupm add extensions.unity.mouse.parallax
 
 #### [Particle Effect for UGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
 
-Add the reference to your project
+Run the following command in your project's directory:
 
 ```bash
 openupm add com.coffee.ui-particle
