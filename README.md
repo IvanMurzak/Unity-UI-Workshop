@@ -9,7 +9,7 @@ This sample project demonstrates the fundamentals of UI implementation in a Unit
   - > You can also upload your packages here. To facilitate this, use this [GitHub Template](https://github.com/IvanMurzak/Unity-Package-Template).
 - **OpenUPM-CLI**: A command-line tool for adding packages to your Unity project.
 
-### Setup
+# Setup
 
 1. **Install Node.js**: Download and install Node.js from [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
 2. **Install OpenUPM-CLI**:
@@ -18,15 +18,9 @@ This sample project demonstrates the fundamentals of UI implementation in a Unit
     npm install -g openupm-cli
     ```
 
-#### [UI Effect](https://github.com/mob-sakai/UIEffect)
+# [Mouse Parallax](https://github.com/IvanMurzak/Unity-Mouse-Parallax)
 
-Run the following command in your project's directory:
-
-```bash
-openupm add com.coffee.ui-effect
-```
-
-#### [Mouse Parallax](https://github.com/IvanMurzak/Unity-Mouse-Parallax)
+![198884624-d8dacd24-41db-4488-b33c-59102809c336](https://github.com/user-attachments/assets/85b46138-de3c-4b03-af8d-994e88b3415b)
 
 Run the following command in your project's directory:
 
@@ -34,7 +28,19 @@ Run the following command in your project's directory:
 openupm add extensions.unity.mouse.parallax
 ```
 
-#### [Particle Effect for UGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
+# [UI Effect](https://github.com/mob-sakai/UIEffect)
+
+![uieffects](https://github.com/user-attachments/assets/1fa335e5-5316-4aa0-8ee5-4721c7e96641)
+
+Run the following command in your project's directory:
+
+```bash
+openupm add com.coffee.ui-effect
+```
+
+# [Particle Effect for UGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
+
+![41771577-8da4b968-7650-11e8-9524-cd162c422d9d](https://github.com/user-attachments/assets/13f69a90-98b6-4ff8-85d2-03bbc210ce26)
 
 Run the following command in your project's directory:
 
