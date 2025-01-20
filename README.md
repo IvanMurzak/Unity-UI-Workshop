@@ -1,23 +1,22 @@
 # Unity UI (UGUI), Tips & Tricks
 
-Sample project that explains basics of UI implementation in Unity project.
+This sample project demonstrates the fundamentals of UI implementation in a Unity project.
 
-## Packages
+### Definitions
 
-A pack of files, usually scripts for easy integration into the project. May have dependencies on another package(s).
-
-- `OpenUPM` - a repository Unity of packages.
-  - > You can upload your packages there as well. Use this [GitHub Template](https://github.com/IvanMurzak/Unity-Package-Template) to make it easier.
-- `OpenUPM-CLI` - command line tool for adding packages to Unity project.
+- **Package**: A bundle of files, typically scripts, designed for easy integration into a project. These may depend on other packages.
+- **OpenUPM**: A repository of Unity packages.
+  - > You can also upload your packages here. To facilitate this, use this [GitHub Template](https://github.com/IvanMurzak/Unity-Package-Template).
+- **OpenUPM-CLI**: A command-line tool for adding packages to your Unity project.
 
 ### Setup
 
-- Step 1: `Node.js` installation - https://nodejs.org/en/download/
-- Step 2: `OpenUPM-CLI` installation
+1. **Install Node.js**: Download and install Node.js from [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
+2. **Install OpenUPM-CLI**:
 
-  ```bash
-  npm install -g openupm-cli
-  ```
+    ```bash
+    npm install -g openupm-cli
+    ```
 
 #### [UI Effect](https://github.com/mob-sakai/UIEffect)
 
