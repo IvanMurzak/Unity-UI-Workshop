@@ -38,6 +38,16 @@ Run the following command in your project's directory:
 openupm add extensions.unity.theme
 ```
 
+# [Non Drawing Graphic](https://github.com/IvanMurzak/Non-Drawing-Graphic)
+
+![222345963-57812733-26f1-47b0-9c02-b87ce7a3e037](https://github.com/user-attachments/assets/a5fd1f65-9fcf-4a16-9bbd-83ea6fdcffa2)
+
+Run the following command in your project's directory:
+
+```bash
+openupm add extensions.unity.nondrawinggraphic
+```
+
 # [UI Effect](https://github.com/mob-sakai/UIEffect)
 
 ![uieffects](https://github.com/user-attachments/assets/1fa335e5-5316-4aa0-8ee5-4721c7e96641)
