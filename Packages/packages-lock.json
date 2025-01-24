@@ -1,5 +1,37 @@
 {
   "dependencies": {
+    "com.coffee.ui-effect": {
+      "version": "5.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.coffee.ui-particle": {
+      "version": "5.0.0-preview.14",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.cysharp.unitask": {
+      "version": "2.3.3",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.5",
       "depth": 0,
@@ -194,6 +226,36 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "extensions.unity.mouse.parallax": {
+      "version": "1.0.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.inputsystem": "1.3.0",
+        "com.cysharp.unitask": "2.3.3"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "extensions.unity.nondrawinggraphic": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "extensions.unity.theme": {
+      "version": "3.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.sprite": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
