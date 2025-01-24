@@ -41,6 +41,25 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
-  }
+    "com.unity.modules.xr": "1.0.0",
+    "extensions.unity.mouse.parallax": "1.0.4",
+    "extensions.unity.theme": "3.0.1",
+    "com.coffee.ui-effect": "5.2.3",
+    "com.coffee.ui-particle": "5.0.0-preview.14",
+    "extensions.unity.nondrawinggraphic": "1.0.1"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.coffee.ui-effect",
+        "com.coffee.ui-particle",
+        "com.cysharp.unitask",
+        "extensions.unity.mouse.parallax",
+        "extensions.unity.nondrawinggraphic",
+        "extensions.unity.theme"
+      ]
+    }
+  ]
 }
