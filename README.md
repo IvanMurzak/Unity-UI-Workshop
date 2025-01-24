@@ -40,6 +40,7 @@ openupm add extensions.unity.theme
 openupm add extensions.unity.nondrawinggraphic
 openupm add com.coffee.ui-effect
 openupm add com.coffee.ui-particle
+openupm add com.unity.probuilder
 ```
 
 # [Mouse Parallax](https://github.com/IvanMurzak/Unity-Mouse-Parallax)
