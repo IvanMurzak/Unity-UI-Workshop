@@ -18,6 +18,27 @@ This sample project demonstrates the fundamentals of UI implementation in a Unit
     npm install -g openupm-cli
     ```
 
+3. Windows only: Set System Environment Variable
+
+    Path: `C:\Users\USER_NAME\AppData\Roaming\npm` (don't forget to replace `USER_NAME`)
+
+4. Windows only: You may need to run the command to allow to run scripts on the computer
+
+    ```
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+    ```
+
+### Install all packages
+
+Run the following command in your project's directory:
+
+```bash
+openupm add extensions.unity.mouse.parallax
+openupm add extensions.unity.theme
+openupm add com.coffee.ui-effect
+openupm add com.coffee.ui-particle
+```
+
 # [Mouse Parallax](https://github.com/IvanMurzak/Unity-Mouse-Parallax)
 
 ![198884624-d8dacd24-41db-4488-b33c-59102809c336](https://github.com/user-attachments/assets/85b46138-de3c-4b03-af8d-994e88b3415b)
@@ -36,16 +57,6 @@ Run the following command in your project's directory:
 
 ```bash
 openupm add extensions.unity.theme
-```
-
-# [Non Drawing Graphic](https://github.com/IvanMurzak/Non-Drawing-Graphic)
-
-![222345963-57812733-26f1-47b0-9c02-b87ce7a3e037](https://github.com/user-attachments/assets/a5fd1f65-9fcf-4a16-9bbd-83ea6fdcffa2)
-
-Run the following command in your project's directory:
-
-```bash
-openupm add extensions.unity.nondrawinggraphic
 ```
 
 # [UI Effect](https://github.com/mob-sakai/UIEffect)
