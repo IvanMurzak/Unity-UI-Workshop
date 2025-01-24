@@ -35,6 +35,7 @@ Run the following command in your project's directory:
 ```bash
 openupm add extensions.unity.mouse.parallax
 openupm add extensions.unity.theme
+openupm add extensions.unity.nondrawinggraphic
 openupm add com.coffee.ui-effect
 openupm add com.coffee.ui-particle
 ```
