@@ -2,7 +2,9 @@
 
 This sample project demonstrates the fundamentals of UI implementation in a Unity project.
 
-![Unity_gR9qXZQmXE](https://github.com/user-attachments/assets/6e79ac90-9280-4b29-b517-7e6aea9a7a6c)
+
+🔴 [Full workshop video on YouTube](https://youtu.be/ESmqOLMujJY).
+
 
 ### Definitions
 
